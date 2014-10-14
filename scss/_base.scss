@@ -22,3 +22,17 @@ body {
 h1, h2 {
     @include headline-font;
 }
+
+//html {
+//    background-image: url(../img/tardis2.jpg);
+//    background-attachment: fixed;
+//    background-repeat: none;
+//    background-position: right;
+//}
+//
+html {
+    background-image: url(../img/tardis2.png);
+    background-attachment: fixed;
+    background-repeat: none;
+    background-position: left;
+}

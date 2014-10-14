@@ -11,8 +11,8 @@ Globals
 
 // Site variable
 $color: #242424;
-$background-color: #beeaff;
-$background-color-alternate: #d8c0ff;
+$background-color: #95dbff;
+$background-color-alternate: #fdf582;
 
 @font-face {
   font-family: 'Josefin Sans';
@@ -59,9 +59,14 @@ $background-color-alternate: #d8c0ff;
 }
 
 @mixin headline-font {
-    font-family: "chemist",helvetica,verdana,sans-serif;
+    font-family: "p22-fllw-eaglefeather",sans-serif;
     font-style: normal;
-    font-weight: 400;  
+    font-weight: 700;
+}
+
+@mixin reversed-background-font {
+    background-color: $color;
+    color: $background-color;
 }
 
 @keyframes colorchange-background {
