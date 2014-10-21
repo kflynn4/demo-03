@@ -26,7 +26,25 @@ nav[role="navigation"] ul li, .contact ul lu {
 
 header[role="banner"] {
     margin: 30px 0 100px 0;
+//    @media (min-width: 700px) {
+//        float: left;
+//        width: 35%;
+//    }
 }
+//    
+//    main[role="main"] {
+//        @media (min-width: 700px) {
+//            float: right;
+//            width: 60%;
+//        }
+//    }
+//
+//footer[role-"contentinfo"] {
+//    @media (min-width: 700px) {
+//        float: left;
+//        width: 100%;
+//    }
+//}
 
 .banner-photo {
     text-align:center;
