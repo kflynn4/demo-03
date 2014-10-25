@@ -4,43 +4,41 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
 <g>
-	<rect x="30.5" y="24" fill="none" width="4.1" height="6.6"/>
-	<rect x="31.7" y="41.8" fill="none" width="12.2" height="14.6"/>
-	<rect x="30.5" y="31.8" fill="none" width="4.1" height="6.6"/>
-	<rect x="40.7" y="31.8" fill="none" width="4.5" height="6.6"/>
-	<rect x="49.4" y="24" fill="none" width="1.3" height="71"/>
-	<rect x="49.4" y="96.5" fill="none" width="1.3" height="0"/>
-	<rect x="40.7" y="24" fill="none" width="4.5" height="6.6"/>
-	<path fill="none" d="M30.5,95h14.7V78.7H30.5V95z M31.7,79.3h12.2v14.6H31.7V79.3z"/>
-	<rect x="48.4" y="1.2" fill="none" width="2.7" height="3.3"/>
-	<rect x="35.8" y="24" fill="none" width="3.6" height="6.6"/>
-	<rect x="30.5" y="96.5" fill="none" width="14.7" height="0"/>
-	<rect x="54.9" y="96.5" fill="none" width="14.7" height="0"/>
-	<rect x="35.8" y="31.8" fill="none" width="3.6" height="6.6"/>
-	<path fill="none" d="M30.5,76h14.7V59.9H30.5V76z M31.7,60.8h12.2v14.6H31.7V60.8z"/>
-	<rect x="54.9" y="24" fill="none" width="4.3" height="6.1"/>
-	<rect x="60.5" y="24" fill="none" width="3.7" height="6.1"/>
-	<rect x="54.9" y="31.2" fill="none" width="4.3" height="7.2"/>
-	<rect x="65.5" y="31.2" fill="none" width="4.1" height="7.2"/>
-	<rect x="60.5" y="31.2" fill="none" width="3.7" height="7.2"/>
-	<rect x="65.5" y="24" fill="none" width="4.1" height="6.1"/>
-	<path fill="none" d="M26.9,21.7h3.6h14.7h4.2h1.3h4.2h14.7h3.7v-5.2H26.9V21.7z M27.3,17.2h45.4V21H27.3V17.2z"/>
-	<path fill="none" d="M54.9,57.1h14.7v-16H54.9V57.1z M56.2,41.8h12.2v14.6H56.2V41.8z"/>
-	<path fill="none" d="M54.9,76h14.7V59.9H54.9V76z M56.2,60.8h12.2v14.6H56.2V60.8z"/>
-	<path fill="none" d="M54.9,95h14.7V78.7H54.9V95z M56.2,79.3h12.2v14.6H56.2V79.3z"/>
-	<rect x="31.7" y="79.3" fill="#0855A3" width="12.2" height="14.6"/>
-	<rect x="31.7" y="60.8" fill="#0855A3" width="12.2" height="14.6"/>
-	<rect x="56.2" y="60.8" fill="#0855A3" width="12.2" height="14.6"/>
-	<rect x="56.2" y="41.8" fill="#0855A3" width="12.2" height="14.6"/>
-	<rect x="56.2" y="79.3" fill="#0855A3" width="12.2" height="14.6"/>
-	<rect x="27.3" y="17.2" fill="#0855A3" width="45.4" height="3.8"/>
-	<path fill="#0855A3" d="M74.1,15.6v-3.5h-1.5v-3h-1.6L53.9,6.1V4.5h-1.8V1.2V0.5h-1h-2.7h-1.1v0.7v3.3h-1v1.5L28.3,9.1h-1v3h-1.4
-		v3.5h-1.9v6.1v0.6h1.9V24h0.3v72.5h-2.2v3h51.9v-3h-2.1V24h0.3v-1.7h1.8v-0.6v-5.2v-0.8H74.1z M48.4,1.2h2.7v3.3h-2.7V1.2z
-		 M45.2,96.5H30.5v0L45.2,96.5L45.2,96.5z M45.2,95H30.5V78.7h14.7V95z M45.2,76H30.5V59.9h14.7V76z M39.4,31.8v6.6h-3.6v-6.6H39.4z
-		 M35.8,30.6V24h3.6v6.6H35.8z M43.8,41.8v14.6H31.7V41.8H43.8z M34.5,30.6h-4.1V24h4.1V30.6z M34.5,31.8v6.6h-4.1v-6.6H34.5z
-		 M45.2,38.4h-4.5v-6.6h4.5V38.4z M45.2,30.6h-4.5V24h4.5V30.6z M50.7,96.5h-1.3v0L50.7,96.5L50.7,96.5z M50.7,95h-1.3V24h1.3V95z
-		 M69.6,96.5H54.9v0L69.6,96.5L69.6,96.5z M69.6,95H54.9V78.7h14.7V95z M69.6,76H54.9V59.9h14.7V76z M69.6,57.1H54.9v-16h14.7V57.1z
-		 M59.2,31.2v7.2h-4.3v-7.2H59.2z M54.9,30.1V24h4.3v6.1H54.9z M64.2,31.2v7.2h-3.7v-7.2H64.2z M60.5,30.1V24h3.7v6.1H60.5z
-		 M69.6,38.4h-4.1v-7.2h4.1V38.4z M69.6,30.1h-4.1V24h4.1V30.1z M73.3,21.7h-3.7H54.9h-4.2h-1.3h-4.2H30.5h-3.6v-5.2h46.4V21.7z"/>
+	<rect x="27.8" y="24.6" fill="none" width="0.1" height="6.6"/>
+	<rect x="27.8" y="32.4" fill="none" width="0.1" height="6.6"/>
+	<rect x="27.9" y="24.6" fill="none" width="4" height="6.6"/>
+	<rect x="29.1" y="42.4" fill="none" width="12.1" height="14.6"/>
+	<rect x="27.9" y="32.4" fill="none" width="4" height="6.6"/>
+	<rect x="38.1" y="32.4" fill="none" width="4.5" height="6.6"/>
+	<rect x="46.8" y="24.6" fill="none" width="1.3" height="71"/>
+	<rect x="38.1" y="24.6" fill="none" width="4.5" height="6.6"/>
+	<path fill="none" d="M27.9,95.6h14.7V79.3H27.9V95.6z M29.1,79.9h12.2v14.6H29.1V79.9z"/>
+	<rect x="45.8" y="1.8" fill="none" width="2.7" height="3.3"/>
+	<rect x="33.2" y="24.6" fill="none" width="3.6" height="6.6"/>
+	<rect x="33.2" y="32.4" fill="none" width="3.6" height="6.6"/>
+	<path fill="none" d="M27.9,76.6h14.7V60.5H27.9V76.6z M29.1,61.4h12.2V76H29.1V61.4z"/>
+	<rect x="52.3" y="24.6" fill="none" width="4.3" height="6.1"/>
+	<rect x="57.9" y="24.6" fill="none" width="3.7" height="6.1"/>
+	<rect x="52.3" y="31.8" fill="none" width="4.3" height="7.2"/>
+	<rect x="62.9" y="31.8" fill="none" width="4.1" height="7.2"/>
+	<rect x="57.9" y="31.8" fill="none" width="3.7" height="7.2"/>
+	<rect x="62.9" y="24.6" fill="none" width="4.1" height="6.1"/>
+	<path fill="none" d="M24.3,22.3h3.6h14.7h4.2h1.3h4.2H67h0h3.7v-5.2H24.3V22.3z M24.7,17.8h45.4v3.8H24.7V17.8z"/>
+	<path fill="none" d="M52.3,57.7H67v-16H52.3V57.7z M53.6,42.4h12.2V57H53.6V42.4z"/>
+	<path fill="none" d="M52.3,76.6H67V60.5H52.3V76.6z M53.6,61.4h12.2V76H53.6V61.4z"/>
+	<path fill="none" d="M52.3,95.6H67V79.3H52.3V95.6z M53.6,79.9h12.2v14.6H53.6V79.9z"/>
+	<rect x="24.7" y="17.8" fill="#0855A3" width="45.4" height="3.8"/>
+	<path fill="#0855A3" d="M71.5,16.3v-0.1v-3.5H70v-3h-1.6l-17.1-3V5.1h-1.8V1.8V1.1h-1h-2.7h-1.1v0.7v3.3h-1v1.5l-18,3.1h-1v3h-1.4
+		v3.5h-1.9v6.1v0.6h1.9v1.7h0.3v72.5h-2.2v3h51.9v-3h-2.1V24.6h0.3v-1.7h1.8v-0.6v-5.2v-0.8H71.5z M45.8,1.8h2.7v3.3h-2.7V1.8z
+		 M36.8,32.4V39h-3.6v-6.6H36.8z M33.2,31.2v-6.6h3.6v6.6H33.2z M41.2,42.4h0.1V57h-0.1H29.1V42.4H41.2z M32,31.2L32,31.2h-4.1h-0.1
+		v-6.6h0.1h4H32V31.2z M27.9,32.4h4H32V39h-0.1h-4h-0.1L27.9,32.4C27.8,32.4,27.8,32.4,27.9,32.4z M27.9,97.1h14.7H27.9z M42.6,95.6
+		H27.9V79.3h14.7V95.6z M42.6,76.6H27.9V60.5h14.7V76.6z M42.6,39h-4.5v-6.6h4.5V39z M42.6,31.2h-4.5v-6.6h4.5V31.2z M46.8,97.1h1.3
+		H46.8z M48.1,95.6h-1.3v-71h1.3V95.6z M52.3,97.1H67H52.3z M67,95.6H52.3V79.3H67V95.6z M67,76.6H52.3V60.5H67V76.6z M67,57.7H52.3
+		v-16H67V57.7z M56.6,31.8V39h-4.3v-7.2H56.6z M52.3,30.7v-6.1h4.3v6.1H52.3z M61.6,31.8V39h-3.7v-7.2H61.6z M57.9,30.7v-6.1h3.7
+		v6.1H57.9z M67,39h-4.1v-7.2H67V39z M67,30.7h-4.1v-6.1H67V30.7z M70.7,22.3H67h0H52.3h-4.2h-1.3h-4.2H27.9h-3.6v-5.2h46.4V22.3z"
+		/>
+	<rect x="31.9" y="24.6" fill="#0855A3" width="0.1" height="6.6"/>
+	<rect x="41.2" y="42.4" fill="#0855A3" width="0.1" height="14.6"/>
+	<rect x="31.9" y="32.4" fill="#0855A3" width="0.1" height="6.6"/>
 </g>
 </svg>
